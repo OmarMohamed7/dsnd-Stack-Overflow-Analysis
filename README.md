@@ -20,7 +20,7 @@ Key findings include:
 - Remote work is increasingly common among developers.
 
 ## Blog Post
-Read the full blog post [here](https://your-username.github.io/stackoverflow-survey-analysis).
+Read the full blog post [here](https://omarmohamed7.github.io/dsnd-Stack-Overflow-Analysis/).
 
 ## Acknowledgments
 - StackOverflow for providing the dataset.
